@@ -1,5 +1,5 @@
 # Gomboc AI Feedback & Discussions
-**The home of discussions, feedback and support surrounding the evolution of Gomboc AI.**
+**Welcome to the home for all discussions, feedback and support surrounding the evolution of <a href="https://www.gomboc.ai/" target=_blank>Gomboc AI.</a>**
 
 Whether you are trying out the Community Developer Edition or using Gomboc Enterprise, this is the place to:
 * Ask for help
