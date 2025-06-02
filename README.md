@@ -5,7 +5,7 @@ Whether you are trying out the Community Developer Edition or using Gomboc Enter
 * Ask for help
 * Propose new features
 * Share feedback on existing functionality
-* Show what you’ve fixed using Gomboc
+* Show and share your success story
 
 To power this, we’re using GitHub Discussions within this repository. 
 _If you are new to GitHub Discussions, here’s GitHub’s <a href="https://docs.github.com/en/discussions" target=_blank>official documentation</a> on how it works._
